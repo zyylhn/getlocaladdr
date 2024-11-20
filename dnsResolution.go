@@ -1,4 +1,4 @@
-package getLocalAddr
+package getlocaladdr
 
 import (
 	"context"
